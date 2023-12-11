@@ -42,7 +42,7 @@
 <p align="center">Feel free to connect with me on LinkedIn or drop me an email. I'm always open to discussions, collaborations, or simply sharing insights about the fascinating world of technology.</p>
 
 <p align="center">
-  <a href="LinkedIn_Profile_Link">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/jay-huerte-9ab70a2a3/">LinkedIn</a> | 
   <a href="mailto:jayhuerte@gmail.com">Email</a>
 </p>
 
