@@ -1,7 +1,7 @@
 # <p align="center">Jay Huerte</p>
 
 <p align="center">
-  <img src="(https://avatars.githubusercontent.com/u/153481867?s=400&u=95ae69d131e2b14d66af1fd189916e021ce21305&v=4)" alt="Profile Image">
+  <img src="https://drive.google.com/file/d/1fB9NpEaI32tMOScc2pxUgh2udv7GKePC/view?usp=drive_link" alt="Profile Image">
 </p>
 
 <p align="center">Hello, fellow coders! I'm Jay Huerte, a dedicated enthusiast in the realm of coding and database management. My passion lies in unraveling intricate problems and architecting elegant solutions. Currently on an exciting journey pursuing a degree in BS Information Technology at New Era University.</p>
